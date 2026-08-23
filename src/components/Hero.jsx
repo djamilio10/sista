@@ -14,7 +14,7 @@ const slides = [
   {
     image: 'https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1600&h=900&q=80',
     subtitle: 'Sélection Premium',
-    title: 'Beauté &\nRaffinement',
+    title: 'Beauté &\nBien-Être',
     description: 'Des produits de qualité pour une femme qui sait ce qu\'elle veut.',
     cta: 'Explorer',
     link: '/categories',
